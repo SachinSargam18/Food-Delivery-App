@@ -1,2 +1,2 @@
-# Food-Delivery-App
- Food Delivery Page design using - HTML CSS 
+# Restaurent-Page
+ Restaurent Home Page design using - HTML and CSS 
